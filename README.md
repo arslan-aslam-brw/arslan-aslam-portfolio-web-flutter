@@ -6,11 +6,11 @@ A sleek and modern portfolio website designed to showcase your skills, projects,
 
 ## Website Demo (Desktop)
 
-<img align="center"  width="1000" height="800" src="https://github.com/arslan-aslam-brw/arslan-aslam-portfolio-web-flutter/blob/master/assets/Demo_Portfolio_desktop-ezgif.com.gif">
+<img align="center" src="https://github.com/arslan-aslam-brw/arslan-aslam-portfolio-web-flutter/blob/master/assets/Demo_Portfolio_desktop-ezgif.com.gif">
 
 
 ## Responsive
-<img align="center"  width="1000" height="800" src="https://github.com/arslan-aslam-brw/arslan-aslam-portfolio-web-flutter/blob/master/assets/Demo_Portfolio_responsive-ezgif.com.gif">
+<img align="center" src="https://github.com/arslan-aslam-brw/arslan-aslam-portfolio-web-flutter/blob/master/assets/Demo_Portfolio_responsive-ezgif.com.gif">
 
 
 
