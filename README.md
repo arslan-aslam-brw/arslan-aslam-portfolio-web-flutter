@@ -1,16 +1,31 @@
-# arslan_aslam
 
-A new Flutter project.
+# A Responsive Portfolio WebSite With Animations By Arslan Aslam
 
-## Getting Started
+A sleek and modern portfolio website designed to showcase your skills, projects, and personality with style. Built with fully responsive design, this website looks great on all devices — from desktops to mobile phones.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Website Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img align="center"  width="1000" height="800" src="https://github.com/arslanaslam5588/Simple_Weather_App_1/blob/master/assets/WeatherAppGif.gif">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Key Features:
+
+- Smooth and eye-catching animations for an engaging user experience
+
+- Clean and minimal layout to highlight your content
+
+- Mobile-first responsive design
+
+- Interactive navigation and section transitions
+
+- Easy to customize and expand
+
+  
+## Skills
+Flutter, Dart, Https Api, animations, flutter providers etc 
+
+
+## Support
+
+For support, email arslang5588@gmail.com or join me on <a href = "https://www.linkedin.com/in/arslanaslam77/" >Linkedin</a>.
+
