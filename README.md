@@ -20,7 +20,9 @@ A sleek and modern portfolio website designed to showcase your skills, projects,
 
 - Clean and minimal layout to highlight your content
 
-- Mobile-first responsive design
+- Responsive design
+
+- light/dark theme 
 
 - Interactive navigation and section transitions
 
